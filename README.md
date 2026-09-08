@@ -1,8 +1,4 @@
-# Cohort-Repo-Template
-This is the core structure of Trailblazer Labs repos
-# [Project Name]
-
-![Project Banner](./assets/banner.png)
+# SLackbot Skill - Service/CS Account Risk 
 
 ## Overview
 A Slackbot skill for support/CS teams: give it a customer name and it assembles a risk-flagged brief — ticket history, Slack mentions, CRM account health, and recent email tone — so a manager can see how serious a situation is without digging through four different tools.
